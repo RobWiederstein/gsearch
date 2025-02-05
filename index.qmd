@@ -1,0 +1,9 @@
+---
+title: "Google Search"
+---
+
+# Reliable Print News
+
+<script async src="https://cse.google.com/cse.js?cx=c5774b2e3698446e9">
+</script>
+<div class="gcse-search"></div>
