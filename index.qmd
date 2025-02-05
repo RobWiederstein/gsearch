@@ -13,3 +13,9 @@ title: "Customized Search"
 <script async src="https://cse.google.com/cse.js?cx=b6759996a21c24792">
 </script>
 <div class="gcse-search"></div>
+
+# Vegan Recipes
+
+<script async src="https://cse.google.com/cse.js?cx=c45bd1748a94a4a57">
+</script>
+<div class="gcse-search"></div>
