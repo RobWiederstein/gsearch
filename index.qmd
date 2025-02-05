@@ -7,3 +7,9 @@ title: "Customized Search"
 <script async src="https://cse.google.com/cse.js?cx=c5774b2e3698446e9">
 </script>
 <div class="gcse-search"></div>
+
+# R coding
+
+<script async src="https://cse.google.com/cse.js?cx=b6759996a21c24792">
+</script>
+<div class="gcse-search"></div>
